@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 galing to sa local nabago na
 
+=======
+galing na to sa github mismo
+>>>>>>> 43fe9907e31e3a943e5c2b59b95d17a1822846b2
